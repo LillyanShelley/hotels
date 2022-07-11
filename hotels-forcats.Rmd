@@ -1,6 +1,6 @@
 ---
 title: "Hotel bookings - factors"
-author: "Naomi Ekas"
+author: "Lillyan Shelley"
 output: github_document
 ---
 

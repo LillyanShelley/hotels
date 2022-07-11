@@ -1,6 +1,6 @@
 Hotel bookings - factors
 ================
-Naomi Ekas
+Lillyan Shelley
 
 ``` r
 library(tidyverse)
